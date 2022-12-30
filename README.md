@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 # Demo
 
-Link:- https://riteshbagdi170-customer-churn-prediction-991.streamlit.app/
+Link:- https://riteshbagdi170-customer-churn-prediction-999.streamlit.app/
 
 ![Screenshot (106)](https://user-images.githubusercontent.com/40036155/210071126-6cf73091-9a29-4474-badd-5b24d1bc30e3.png)
 ![Screenshot (107)](https://user-images.githubusercontent.com/40036155/210071124-057a7b05-55c9-4807-b863-93a284d2b784.png)
