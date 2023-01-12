@@ -13,7 +13,7 @@ page_bg_img = '''
 .stApp {
 background-image: url("https://coolbackgrounds.io/images/backgrounds/black/black-triangle-b9cb7263.jpg");
 background-repeat: no-repeat;
-background-size:100%;
+background-size:100% 100%;
 }
 </style>
 '''
